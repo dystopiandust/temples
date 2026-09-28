@@ -30,9 +30,9 @@ header p {
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
+  width:100%
   position: relative;
-  margin-top: 10px;
-  align-content: center;
+  margin-top: 10px auto 0;
 }
 
 /* Hide the images by default */
